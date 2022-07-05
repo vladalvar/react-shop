@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vladalvar.github.io/react-shop/",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
@@ -12,7 +13,7 @@
     "react",
     "javascript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Vladimir Alvarez <gvladimiralvarez@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.18.6",
